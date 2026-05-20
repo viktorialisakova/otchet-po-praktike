@@ -1,6 +1,6 @@
     // Массив картинок для пролистывания в баннере
         const images = [
-            "images/banner1.png", // Первая (основной баннер)
+            "images/Слайд1.JPG", // Первая (основной баннер)
             "images/banner2.png", // Вторая
             "images/banner3.png"  // Третья
         ];
